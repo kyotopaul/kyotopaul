@@ -64,7 +64,7 @@ I'm a developer and data scientist-in-training, passionate about building robust
 
 ### 📫 How to Reach Me
 
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- Portfolio: [kyotopaul.com/](https://kyotopaul.github.io/website/)
 - Email: kyalop260@gmail.com
 
 ---
